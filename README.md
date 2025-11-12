@@ -329,7 +329,7 @@ Options:
 - Mean: 0.775
 - Median: 0.700
 - **60%** of classifications have confidence ≥ 0.70
-- **Bimodal distribution**: Peaks at ~0.70 and ~0.90
+- **step distribution?**: we have only three values right?
 
 ## Future Improvements
 
