@@ -1,0 +1,14 @@
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+matplotlib>=3.7.0,<4.0.0
+
+scikit-learn>=1.3.0,<2.0.0
+sentence-transformers>=2.2.0,<3.0.0
+torch>=2.0.0,<3.0.0
+
+sqlalchemy>=2.0.0,<3.0.0
+psycopg>=3.1.0,<4.0.0  # PostgreSQL adapter (psycopg3)
+
+google-genai>=0.2.0
+
+pathlib>=1.0.1  
