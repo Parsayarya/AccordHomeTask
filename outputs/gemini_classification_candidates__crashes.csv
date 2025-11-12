@@ -1,0 +1,103 @@
+message_id,message content,topic 1,confidence 1,topic 2,confidence 2,predicted topic,predicted confidence
+1394681110675329035,reopen the client and try again,Crashes,0.9,Compatibility,0.7,Crashes,0.95
+1380180633304825930,and not something you can control at all,Crashes,0.9,Performance,0.9,Gameplay,0.9
+1343638786659057756,Are they confirmed display issues or power or ram or something,Crashes,0.9,Performance,0.9,Performance,0.95
+1392395203624697952,still the same error for some reason,Crashes,0.9,Developer,0.7,Crashes,0.85
+1380503695350824971,Glitchy game,Crashes,0.9,Gameplay,0.9,Performance,0.9
+1380480730429132890,I can't do abbysals cause my laptop crashes a lot,Crashes,0.9,Performance,0.7,Crashes,0.95
+1395008952651092018,at least it didn't? maybe they fixed that,Crashes,0.9,Cheating,0.7,Updates,0.95
+1380209698065743872,"Nah, the most dangerous thing in eve is being disconnected when active",Crashes,0.9,Online systems,0.9,Online systems,0.95
+1395009857857257572,Well it happened after a point,Online systems,0.9,Community,0.9,Community,0.9
+1395008494121385994,nah it just doesn't work 90% of the time for no reason,Crashes,0.9,UI,0.9,Community,0.9
+1372676546547945473,i think i broke the site just now :kekl:,Crashes,0.9,Online systems,0.7,Online systems,0.95
+1354249950208196759,"a couple months ago, i was doing dread shenanigans and i got dc'd the moment about half a dozen hostiles landed on grid with me",Online systems,0.9,Crashes,0.9,Online systems,0.95
+1371921621270401165,Yep relog fixed it. Cheers!,Gameplay,0.9,Crashes,0.9,Online systems,0.88
+1347724403361976492,But what if we go beyond Tidi. Into just server die,Online systems,0.9,Crashes,0.9,Online systems,0.9
+1340646581707214932,"¯\_(ツ)_/¯
+I just tell the code robot to make it more blue and the squares should be rectangles, also it crashed.",Crashes,0.9,Graphics,0.9,Crashes,0.95
+1345639492244996097,Relogging seems to fix it,Crashes,0.9,Performance,0.7,Crashes,0.9
+1387460863467978952,"Interestingly, one thing I see common on the corp listing errors, it's never on the 1st page and usually pretty far in",Performance,0.9,Crashes,0.9,UI,0.98
+1392495505790992536,most of our pni losses are due to our pni disconnecting,Performance,0.9,Crashes,0.9,Online systems,0.95
+1347320379177308280,"The next step is ""uninstall and reinstall the entire game"" or ""put in a support request""",Crashes,0.9,Developer,0.9,Crashes,0.9
+1351514314649108571,server crashes when I try to log in lol all me,Crashes,0.9,Online systems,0.9,Online systems,0.95
+1372928402243452978,It’s just a black screen,Crashes,0.9,Performance,0.7,Crashes,0.95
+1347754316856823890,"i've had that happen once, i either waited a few min, or maybe i relogged and it was fine, and i haven't been into an amarr station in a bit, so i don't think it's specific to them",Crashes,0.9,Characters,0.9,Gameplay,0.85
+1380210021673074698,Or the client just kicking you for zero reason,Crashes,0.9,Online systems,0.7,Online systems,0.88
+1394159865772900362,must be a glitch or sth,Crashes,0.9,Performance,0.7,Gameplay,0.9
+1381987788899225651,i think this is a bug,Crashes,0.9,Cheating,0.9,Cheating,0.9
+1373958549503213618,Just a bug,Crashes,0.9,Cheating,0.7,Gameplay,0.88
+1372173149004632104,"nooo odyss down
+damn",Economy,0.9,Crashes,0.9,Community,0.9
+1374429877649936536,OOM exception ?,Crashes,0.9,Developer,0.7,Crashes,0.98
+1372928667998617690,I jumped through a stargate and it froze,Crashes,0.9,Gameplay,0.7,Crashes,0.95
+1373927352270196766,"fun part is that it's okay for first page, then error for the next 250 pages.",Performance,0.9,Crashes,0.9,Online systems,0.95
+1372169612665294848,I already submitted multiple EBR when I got the error that some clients have started according to the launcher but no client appeared on my screen.,Crashes,0.9,Performance,0.7,Crashes,0.95
+1383514515085332570,i thought it's a bug,Cheating,0.9,Crashes,0.9,Cheating,0.9
+1351632515789488178,"yeah it's annoying, it doesn't move till u give a first move, then it starts randomly going places",Units,0.9,Crashes,0.9,Control,0.88
+1349905448744124588,"not been crashing, but massive lag spikes even though i've got a 3080 and ryzen 9 5900X",Crashes,0.9,Compatibility,0.9,Performance,0.95
+1389511579531214869,"also if I start two clients right after each other, one doesn't open",Crashes,0.9,Compatibility,0.7,Performance,0.95
+1389511490771484764,"lol, it freezes all the time again now",Crashes,0.9,Performance,0.7,Crashes,0.95
+1389540616706199622,That's a fun lil bug,Gameplay,0.9,Crashes,0.9,Gameplay,0.88
+1394684533009420328,is this a bug or what,Gameplay,0.9,Cheating,0.9,Cheating,0.9
+1387096725092569215,I sacrifice rats to mine so it doesn't crash,Crashes,0.9,Community,0.7,Crashes,0.95
+1384652155612561576,what lantorn feels like,Gameplay,0.9,Community,0.9,Community,0.95
+1373793585719148714,Yup.... a bug,Cheating,0.9,Crashes,0.9,Cheating,0.9
+1372928346597490758,Uh guys my game froze and it’s still frozen I’ve restarted it 5 times and it no work,Crashes,0.9,Performance,0.7,Crashes,0.95
+1343762132910608496,"I had read on Reddit about it and decided to take a look, I for one look forward to any changes - including a crash if need be",Social media,0.9,Updates,0.9,Crashes,0.95
+1395009882456981526,"yeah same, but only on my main. Alts are fine lol",Crashes,0.9,Cheating,0.7,Characters,0.95
+1371010227545178113,Send me the crashout :pepehands:,Crashes,0.9,Community,0.9,Crashes,0.95
+1387460976038772746,"Is it always around the same page, or does it sometimes work and sometimes not?",Performance,0.9,Online systems,0.9,UI,0.95
+1351955264361726076,I think my crazed drone scientist mission broke the server it’s from like 2007,Online systems,0.9,Units,0.9,Online systems,0.95
+1345639441540059176,"It’s a bug with the game. Sometimes wormhole splash sounds turn off, sometimes the animation doesn’t happen. Sometimes both won’t happen.",Crashes,0.9,Gameplay,0.9,Audio,0.95
+1347642899164168192,"hello, can someone help, i am new to the game and for some reason when i click create a capsuleer (which i am guessing ingame charecter) nothing happens, i am struggling, and yet i turned it off and on",Crashes,0.9,UI,0.9,Crashes,0.9
+1387391212650233887,at least you have the ability to crash,Crashes,0.9,Gameplay,0.9,Crashes,0.95
+1387189563125923991,"if you want help fixing your game after this mistake, I can help you, @Tiefman , let me konw",Performance,0.9,Crashes,0.9,Community,0.95
+1387093200153481326,Ya I bug reported it,Crashes,0.9,Developer,0.9,Developer,0.95
+1387090929977917542,submit a bug report please,Gameplay,0.9,Developer,0.9,Developer,0.95
+1387093076341821591,seession change makes it stop working,Gameplay,0.9,Online systems,0.9,Online systems,0.95
+1345106854396563511,shout-out to the good old days where you had to manually brake on the runway to spool up your engines in a meteor or you would run out of runway and crash on takeoff,Gameplay,0.9,Crashes,0.9,Gameplay,0.95
+1372928393045086208,"restarted what, the game?",Crashes,0.9,Performance,0.7,Crashes,0.95
+1370088723655430215,And launch the exe there,Performance,0.9,Crashes,0.9,Gameplay,0.9
+1351632403185139877,I had soemthing similar happen in an abyss where my ship kept making approch decisions I didn't give it?,Crashes,0.9,Units,0.9,Gameplay,0.95
+1380250857475674303,oh look is that another bug,Cheating,0.9,Crashes,0.9,Cheating,0.9
+1374390303385063476,try closing eve launcher and eve client from your task manager,Performance,0.9,Crashes,0.9,Crashes,0.9
+1349454671449690112,"crashing peoples clients with thousands of bubbles is not a choice you are allowed to make, sorry",Crashes,0.9,Cheating,0.9,Crashes,0.95
+1351511556336390174,I'm messing with my files so much I didn't know if it was me still crashing or the server XD,Crashes,0.9,Online systems,0.9,Online systems,0.85
+1381281672972075038,"well, if yo are asking me, I can not even get through the login on the EVE launcher",Crashes,0.9,Compatibility,0.7,Online systems,0.95
+1385125534761095260,I'm still surprised when we get for real crashouts in 2025. Like hasn't the internet been around long enough for all the people who were gonna do that to get banned?,Crashes,0.9,Cheating,0.9,Crashes,0.95
+1384632240289484943,Try installing in a dif spot?,Crashes,0.9,Compatibility,0.9,Crashes,0.9
+1384690764100927539,my zirn dced,Crashes,0.9,Online systems,0.7,Online systems,0.95
+1384668183289397401,since the game kept crashing on 1080p,Crashes,0.9,Graphics,0.7,Crashes,0.95
+1384632043408719993,Launcher says (an error occurred while downloading client),Crashes,0.9,Compatibility,0.9,Crashes,0.9
+1384632188988948531,Ive been trying to install it for 2 days now.,Crashes,0.9,Compatibility,0.9,Performance,0.9
+1384631957564035175,@Wraithkwk u need the sisters launchers brother,Crashes,0.9,Compatibility,0.9,Items,0.9
+1384633161455112305,"Good idea to take the steps you took and the error message to #launcher as well, but yeah, def try installing it elsewhere first if there's any chance the issue is your available disk space, and you can export logs from the launcher to give people more info via https://support.eveonline.com/hc/en-us/articles/5885251968796-Launcher-logs",Crashes,0.9,Compatibility,0.9,Crashes,0.95
+1384632040372310056,then u can install eve,Crashes,0.9,Compatibility,0.9,Compatibility,0.95
+1384631832477307060,"How do you mean? You grabbed the launcher and started it, or?",Crashes,0.9,Compatibility,0.9,UI,0.9
+1384631590151258233,"Holy Shit, I cant even get the game to install.",Crashes,0.9,Compatibility,0.9,Compatibility,0.95
+1384013908536463380,Odd ive done that and everything else and now it works after 3 hard restarts,Crashes,0.9,Performance,0.7,Crashes,0.95
+1354152564949647573,"but i do alot of corp industry, and the pc freeze with some chrome tabs :<",Crashes,0.9,Performance,0.9,Crashes,0.95
+1381987858713415850,Ill try relog,Crashes,0.9,Gameplay,0.9,Crashes,0.9
+1392882701312331836,they could FIX the bugs,Developer,0.9,Gameplay,0.9,Updates,0.9
+1381987817084813394,It indeed must be a bug,Crashes,0.9,Cheating,0.9,Cheating,0.9
+1340024315244187678,My honest response to dying is to actually crash out because it took so many jumps (like 4 lol) to get to where I was fighting,Crashes,0.9,Online systems,0.7,Gameplay,0.95
+1345115967490883654,"for example, undocking 11 toons on blackscreen from jita has a 1 in 3 chance of crashing my pc",Performance,0.9,Crashes,0.9,Crashes,0.95
+1354152209582919813,"ram usage is up, thats an issue sure but the games not broken",Crashes,0.9,Performance,0.9,Performance,0.95
+1380558418774982677,oh the RR bug is back,Crashes,0.9,Cheating,0.7,Gameplay,0.9
+1380507812542546014,try relogging,Crashes,0.9,Online systems,0.9,Crashes,0.9
+1380443268764139530,It just happened with me literally looking at the screen.,Gameplay,0.9,Crashes,0.9,Community,0.9
+1396437033727033344,but because you had a connection error,Crashes,0.9,Online systems,0.9,Online systems,0.95
+1384196243760353453,"made countless bug reports and tickets, it's been YEARS",UI,0.9,Gameplay,0.9,Developer,0.95
+1395643366389317743,anyone have any fix or idea why this happends? ^,Crashes,0.9,Performance,0.9,Crashes,0.85
+1395606840791924876,I lost like 7 Pythons from the server crashing,Crashes,0.9,Economy,0.7,Online systems,0.95
+1390923261004611636,i could safelog if it bugged,Online systems,0.9,Crashes,0.9,Gameplay,0.95
+1387168895735173181,when my pc disconnects,Online systems,0.9,Crashes,0.9,Online systems,0.95
+1390415656536772750,i have to restart it 6-8 times per day,Crashes,0.9,Performance,0.7,Crashes,0.95
+1392103563252989993,it just appears sometimes,Performance,0.9,Crashes,0.9,Community,0.9
+1390415762564583614,i would go to support with that because that is definetly not a normal issue,Crashes,0.9,Developer,0.7,Developer,0.95
+1395600482642296924,do you have same problem ?,Online systems,0.9,Crashes,0.9,Community,0.9
+1395619760544153761,i had that when it originaly went down,Crashes,0.9,Online systems,0.9,Online systems,0.95
+1395601549836816485,something is broken,Online systems,0.9,Crashes,0.9,Crashes,0.85
+1395610794003009566,"Yes, yes it has",Community,0.9,Crashes,0.9,Community,0.75
+1424045757073457213,"This is gonna be atrocious to read, gimme a moment. https://i.imgur.com/l6NKwB6.png is the entire thing. That first `core::ptr` is just dropping the entire SDE data from memory on shutdown.",Developer,0.9,Performance,0.9,Developer,0.95
+1424355418783879208,well third restart? Third time is the charm?,Crashes,0.9,Online systems,0.9,Community,0.95

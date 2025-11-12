@@ -1,0 +1,110 @@
+message_id,message content,topic 1,confidence 1,topic 2,confidence 2,predicted topic,predicted confidence,label
+1.36E+18,are guns on droneboats bad?,Items,0.7,Gameplay,0.7,Items,0.95,1
+1.37E+18,"question for the devs after watching the livestream vod.
+
+The Thorax is supposedly going from 920 -> 960 MW of powergrid... however, it doesn't have 920 currently! it has **8**20 MW of powergrid currently. is it going from **8**20 -> **8**60? or a huge boost up from **8**20 -> **9**60?? please clarify! 😄",Items,0.7,Developer,0.7,Developer,0.95,1
+1.37E+18,We're counting pirate ships. Nightmare and Machriel are the only unique hull pirate battleships anyway,Ships,0.9,Items,0.7,Ships,0.98,1
+1.39E+18,"Whatever announcement it may be, it's surely coming soon",Marketing,0.9,Updates,0.7,Updates,0.9,1
+1.36E+18,"Also, remind me why FW is not a good idea for Alphas again?",Gameplay,0.7,Balance,0.7,Gameplay,0.95,1
+1.36E+18,As an omega you can skill into absolutely anything you want. There is no limit whatsoever,Progression,0.9,Monetisation,0.7,Progression,0.95,1
+1.37E+18,if a ship's niche is stupid design then it's ok for that ship to be garbage while the devs figure out something better,Items,0.7,Ships,0.7,Ships,0.85,1
+1.36E+18,tbh the only recent brawl tengus that I have seen do well are bling dual msb,Gameplay,0.7,Items,0.7,Balance,0.9,0
+1.36E+18,https://www.reddit.com/r/Eve/s/EJzaNtoWJP,Community,0.9,Social media,0.7,Social media,0.95,1
+1.36E+18,Also you should only be swapping guns like twice in a site,Gameplay,0.9,Items,0.7,Gameplay,0.95,1
+1.37E+18,"because if you reject a mission, you loose standings, so you let your puller take the hit",Progression,0.7,Gameplay,0.7,Gameplay,0.95,0
+1.37E+18,a lone dread is a dead dread....,Items,0.7,Gameplay,0.7,Ships,0.95,0
+1.38E+18,I find AI a great learning tool and good for pretty boilerplate stuff (i.e. apply classes to these elements when loading is true). The learning side though is what I really appreciate - taking what it suggests and dissecting how it works and challenging why it gave that solution. I've been using a combination of ChatGPT and Claude to experiment with building my own NAT Gateway in Rust for example. I'm learning a lot and it's pushing me but not working for me if that makes sense,AI,0.7,Developer,0.7,AI,0.95,1
+1.38E+18,what official fitting,Items,0.9,Gameplay,0.9,Items,0.95,1
+1.38E+18,"I got skirm spec 5 pretty early, big fan of flying dual skirm bcs",Ships,0.7,Progression,0.7,Progression,0.95,1
+1.36E+18,if you can keep the identifier digits to below 10M in the wallet (might work without?) you should always be able to figure out who's sent you the isk IF they have the identifier digits at the end of the isk sent,Economy,0.7,Gameplay,0.7,Economy,0.98,1
+1.36E+18,14mill entirely on PvE skills,Progression,0.9,Gameplay,0.7,Progression,0.95,1
+1.35E+18,That was on SISI during the waste testing just before deployment,Developer,0.7,Updates,0.7,Updates,0.95,1
+1.37E+18,so we need pay for the ice ?,Economy,0.7,Monetisation,0.7,Monetisation,0.9,1
+1.40E+18,Plus ucsc is more fw focused than fl33t so people are less inclined to join it,Online systems,0.9,Characters,0.7,Community,0.95,1
+1.36E+18,yeah small gun naga bait is surprisingly not terrible,Items,0.7,Gameplay,0.7,Balance,0.95,0
+1.38E+18,color more stinky than mine,Community,0.9,Graphics,0.7,Community,0.95,1
+1.41E+18,i didnt think it was possible,AI,0.9,Community,0.9,Gameplay,0.75,0
+1.36E+18,im re rolling,Gameplay,0.7,Progression,0.7,Gameplay,0.95,1
+1.37E+18,"spent all money money on trade, i have been collecting last one month. while going market no one was there. while returning bot came and shot my ship down. probably was script or bot. i quit the game.",Gameplay,0.9,Ships,0.9,Cheating,0.95,1
+1.37E+18,gallente in north complained about scorp so much that half our members started getting scorps,Units,0.7,Community,0.7,Ships,0.95,0
+1.35E+18,u can make a mining barge alt with the free recruit a friend sp,Economy,0.9,Progression,0.9,Progression,0.95,1
+1.37E+18,they arent expecting your BR to have neuts and a scram,Items,0.7,Gameplay,0.7,Gameplay,0.95,1
+1.37E+18,the warhead aims the shaped charge better,Gameplay,0.9,Items,0.9,Items,0.95,1
+1.37E+18,Will show your yap xp. The higher you go the higher level you will be.,Progression,0.7,Community,0.7,Progression,0.95,1
+1.40E+18,He forgot the data,Items,0.9,Community,0.9,Community,0.88,0
+1.37E+18,i gotta cargo the red loot,Items,0.9,Gameplay,0.7,Items,0.95,1
+1.39E+18,Is that… is that Boomerbook? Sigma chads use TikTok,Social media,0.9,Community,0.7,Social media,0.95,1
+1.36E+18,use a vargur instead :smile_kek:,Items,0.7,Gameplay,0.7,Ships,0.9,0
+1.41E+18,"The thief is just doing their job, cant blame them",Cheating,0.9,Gameplay,0.7,Community,0.95,0
+1.35E+18,Black ops battleship,Units,0.7,Items,0.7,Ships,0.9,0
+1.36E+18,"someone posted some ""funny"" video about ao a while ago but i cant find it anywhere anymore ;_;",Community,0.9,Social media,0.9,Community,0.95,1
+1.40E+18,Don't fly pirates as a new player. They are expensive to properly fit and have high skill floors,Items,0.7,Balance,0.7,Gameplay,0.95,1
+1.37E+18,Just dont buy it?,Purchases,0.9,Economy,0.9,Ships,0.9,0
+1.42E+18,"Performance becomes an issue with YAML with bigger files, think the types file",Performance,0.9,Developer,0.7,Performance,0.95,1
+1.42E+18,Jita is still the best place to live in,Economy,0.7,Community,0.7,Economy,0.9,1
+1.39E+18,Pochven you can also get glorified cans which drops a key worth about 80mil,Online systems,0.7,Story,0.7,Items,0.95,1
+1.39E+18,fuck you and your brawling comp,Gameplay,0.7,Community,0.7,Gameplay,0.9,1
+1.37E+18,BROOOO is there like a wormhole daytrip corp based in highsec?,Gameplay,0.9,Community,0.9,Community,0.95,0
+1.35E+18,"Yes so you need to put pulse lasers on an atron, it has hidden bonuses",Gameplay,0.7,Items,0.7,Items,0.95,0
+1.40E+18,we accept Bank of America though,Economy,0.9,Purchases,0.9,Purchases,0.95,1
+1.39E+18,"Announcing Alliance Tournament XXI
+https://www.eveonline.com/news/view/announcing-alliance-tournament-xxi
+@alert-news",Developer,0.7,Gameplay,0.7,Alliance Tournament XXI Feeders & Prizes,0.98,1
+1.37E+18,No because I doubt they are 500m each,Items,0.7,Economy,0.7,Economy,0.99,1
+1.38E+18,I just buy BPCs with LP and build ships,Items,0.7,Economy,0.7,Economy,0.95,1
+1.38E+18,i just wanna enjoy,Community,0.9,Gameplay,0.9,Community,0.9,0
+1.41E+18,:peepochamp:,Social media,0.9,Community,0.9,Community,0.9,1
+1.42E+18,It's utterly bland,Gameplay,0.9,EVE Vanguard,0.7,Gameplay,0.9,1
+1.39E+18,thats a goal for the revamped secret printer guide,Gameplay,0.9,UI,0.7,Gameplay,0.95,1
+1.40E+18,rip mandek,Characters,0.9,Community,0.9,Community,0.9,1
+1.40E+18,I am literally John Solo PvP,Online systems,0.7,Gameplay,0.7,Gameplay,0.99,1
+1.37E+18,Our omens have better range,Ships,0.9,Balance,0.7,Gameplay,0.95,0
+1.39E+18,(btw I brought up this issue at the time of release and it's still there),Updates,0.9,UI,0.9,Updates,0.95,1
+1.41E+18,or rep cycles,Items,0.7,Balance,0.7,Gameplay,0.95,0
+1.41E+18,I'll do it for -2%,Economy,0.9,Purchases,0.9,Economy,0.95,1
+1.41E+18,so what system were you stumped in,Online systems,0.9,Gameplay,0.9,Gameplay,0.95,1
+1.40E+18,imagine flying mining ships,Ships,0.9,Units,0.7,Ships,0.95,1
+1.40E+18,in dronelands theyre a level 1 combat site,Gameplay,0.9,Units,0.7,Gameplay,0.95,1
+1.39E+18,"the major blocks broke up, for the most part, though they sometimes voltron up",Units,0.7,Online systems,0.7,Community,0.95,0
+1.42E+18,i shouldn't have posted the kill,Gameplay,0.9,Social media,0.7,Gameplay,0.9,1
+1.41E+18,How many killmarks it had,Gameplay,0.9,Progression,0.9,Items,0.9,0
+1.39E+18,yet none of it shows up on the KM because it would be super duper long,Performance,0.7,UI,0.7,Gameplay,0.95,0
+1.39E+18,Shadow cartel I think,Characters,0.9,Community,0.9,Community,0.9,1
+1.42E+18,I hope you all feel bad for the crew every time you feed a ship. :fennecLookingAtYou:,Gameplay,0.9,Ships,0.9,Gameplay,0.95,1
+1.41E+18,What’s his fit/skills?,Gameplay,0.7,Items,0.7,Progression,0.9,0
+1.42E+18,Srp ships aint coming from you,Ships,0.9,Economy,0.7,Economy,0.95,1
+1.41E+18,still doable though,Community,0.9,Gameplay,0.9,Gameplay,0.95,1
+1.40E+18,"Ccp soon
+Gov soon
+Business soon
+Bois getting ready soon",Developer,0.9,Community,0.7,Developer,0.95,1
+1.41E+18,"the question is if there is someone from that corp I can talk my doubts through; I was trying to bold that question in my message, giving the context in non-bold font - I know sometimes the intent is lost in longer texts",Community,0.9,Online systems,0.7,Community,0.95,1
+1.42E+18,"Meanwhile, hauling more than 1 ship, especially battleship hulls, you really need a DST",Items,0.9,Gameplay,0.7,Ships,0.95,1
+1.42E+18,"Kronos, more like Kronever",Ships,0.9,Community,0.7,Community,0.95,1
+1.40E+18,suppression bonus applies to everything in the system iirc,Gameplay,0.9,Balance,0.7,Gameplay,0.95,1
+1.40E+18,"-# (Rogue AI is consistantly wrong about many things and does not have accurate data, please take the following with great caution)
+
+geographymaster24., well, I’ll take that as a compliment! Glad I could be of service. If you have any more questions or need assistance on your adventures, I’m here to help. And for more detailed info, don’t forget to visit https://support.eveonline.com/. Safe piloting!",AI,0.9,Online systems,0.7,AI,0.95,1
+1.41E+18,there is not alliance called ish or friends,Community,0.9,Alliance Tournament XXI Feeders & Prizes,0.9,Community,0.95,1
+1.40E+18,Out of thousands of people you are #1,Community,0.9,Progression,0.7,Community,0.98,1
+1.41E+18,But if you shoot my pod I would lose 5.6b worth of inplants,Gameplay,0.7,Economy,0.7,Gameplay,0.9,1
+1.39E+18,Right plus they dropped required omega,Monetisation,0.9,Progression,0.7,Monetisation,0.95,1
+1.42E+18,Just click a button and yiu have your other set of lows,Gameplay,0.9,UI,0.7,UI,0.9,1
+1.41E+18,"An internal economy get supported, srp for the pvpers, yada yada",Economy,0.9,Gameplay,0.7,Economy,0.98,1
+1.41E+18,Like 1st person?!?!,Gameplay,0.9,Control,0.9,Gameplay,0.95,1
+1.41E+18,You can pilot them beyond that but not attack,Units,0.7,Gameplay,0.7,Gameplay,0.95,1
+1.41E+18,I usually say around 10 mil isk is hwere you start getting yourself into danger territory.,Economy,0.9,Gameplay,0.7,Economy,0.95,1
+1.39E+18,"a tarkov bot that makes your quests, i think it's something that a lot of people would want lol, but you can pay people that use hacks and run the missions for you lmao",Items,0.7,Gameplay,0.7,Cheating,0.95,1
+1.41E+18,most of those ships are usually fitted with an extra res mod just to fill the hole,Gameplay,0.7,Ships,0.7,Items,0.9,1
+1.41E+18,Zelus confirmed that it is bonus to outgoing?,Balance,0.7,Ships,0.7,Developer,0.95,1
+1.38E+18,"I used a hecate for a dst assassin for a bit, could make it fast enough to decloak well",Items,0.7,Gameplay,0.7,Gameplay,0.9,0
+1.41E+18,it just shows most recent kills,Online systems,0.9,Gameplay,0.7,Gameplay,0.95,0
+1.42E+18,I do not know how itd be made hard to multibox without being made hard overall,Cheating,0.7,Balance,0.7,Balance,0.95,1
+1.40E+18,But you have to be lucky the fleet actually does what you want to do,Community,0.7,Online systems,0.7,Gameplay,0.95,0
+1.41E+18,Can I haz thunderchild please?,Items,0.9,Ships,0.9,Community,0.9,0
+1.39E+18,"this is like, 500m",Items,0.9,Economy,0.9,Economy,0.9,1
+1.42E+18,How do you counter smart bombs?,Ships,0.7,Gameplay,0.7,Gameplay,0.95,1
+1.42E+18,Maybe they will revert the nerfs now,Balance,0.7,Updates,0.7,Balance,0.95,1
+1.42E+18,bring back @lil tism 😭,Community,0.7,Characters,0.7,Community,0.95,0
+1.40E+18,if rats yellowbox just recall,Units,0.7,Gameplay,0.7,AI,0.88,0
+1.42E+18,According to highsec gates they don't count as a cap,Ships,0.9,Gameplay,0.7,Ships,0.95,1
