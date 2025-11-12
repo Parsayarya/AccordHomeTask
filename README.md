@@ -1,4 +1,10 @@
-# One must imagine Sisyphus happy 
+# **One must imagine Sisyphus happy** 
+
+I leave Sisyphus at the foot of the mountain. One always finds one's burden again. But Sisyphus teaches the higher fidelity that negates the gods and raises rocks. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each atom of that stone, each mineral flake of that night-filled mountain, in itself, forms a world. The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.
+
+
+-Albert Camus
+
 
 
 # Accord Message Topic Classification 
@@ -6,7 +12,6 @@
 
 ## Table of Contents
 
-- [Solution Overview](#solution-overview)
 - [Methodology](#methodology)
 - [Project Structure](#project-structure)
 - [Setup & Installation](#setup--installation)
@@ -16,21 +21,11 @@
 - [Future Improvements](#future-improvements)
 
 
-## Solution Overview
-
-This system addresses ambiguous classifications through a multi-faceted approach:
-
-1. **Ambiguity Detection**: Identify potentially ambiguous messages using statistical and linguistic analysis
-2. **Contextual Analysis**: Leverage semantic similarity to understand message context
-3. **Improved Classification**: Re-classify ambiguous messages using retrieval-augmented prompting with Gemini
-4. **Quality Metrics**: Measure and track classification improvement
-
 ## Methodology
 
 ### Exploratory Data Analysis (EDA)
 **Module:** `utils/EDA.py`
 
-Analyzes the dataset to understand:
 - Topic distribution across messages
 - Most common topic co-occurrences (pairs)
 - Topics frequently appearing in ambiguous contexts
@@ -56,14 +51,15 @@ PMI(token, topic) = log₂(P(token|topic) / (P(token) × P(topic)))
 1. Build token-topic co-occurrence statistics per community
 2. Calculate PMI scores for each token-topic pair
 3. Score messages based on average PMI of their tokens
-4. Flag outliers (low PMI = contextually unusual vocabulary)
+4. Flag outliers with Z scores (low PMI = contextually unusual vocabulary)
 
-**Output:** Community-specific CSVs identifying messages likely misclassified due to contextual ambiguity.
+**Output:** Community-specific CSVs (here only one) identifying messages likely misclassified due to contextual ambiguity.
 
 ### Composite Ambiguity Ranking
 **Module:** `src/ranker.py`
 
-Engineers a holistic ambiguity score combining multiple signals:
+This here I pretty much made up but looking at the result with some validation could be a nice metric to track.
+
 
 **Features:**
 - **Entropy** (0.50 weight): Uncertainty across topic assignments
@@ -83,6 +79,10 @@ ambiguity_score = 0.50 × entropy + 0.35 × inv_margin + 0.15 × (topic_count - 
 **Module:** `src/Classify.py`
 
 Improves classification through context-aware re-classification:
+
+
+Thanks to cluade, the beatiful architecture demo below :))))
+
 
 **Architecture:**
 ```
@@ -106,7 +106,7 @@ Multi-topic Message
 ### Performance Metrics
 **Module:** `utils/metrics.py`
 
-Calculates evaluation metrics (requires manual labeling):
+evaluation metrics (requires manual labeling):
 
 **Metrics:**
 - **Accuracy**: 74% (95% CI: 64.6% - 81.6%)
@@ -165,7 +165,7 @@ AccordHomeTask/
 ### Prerequisites
 
 - Python 3.9+
-- CUDA-capable GPU 
+- CUDA-capable GPU (I ran it on my own PC, it's not that bad)
 - PostgreSQL database 
 - Google Gemini API key
 
@@ -265,7 +265,7 @@ Options:
 
 ### Classification Performance (100 manually labeled samples)
 
-| Metric | Value | Interpretation |
+| Metric | Value | my interpretations |
 |--------|-------|----------------|
 | **Accuracy** | 74.0% | Correct classifications |
 | **95% Confidence Interval** | (64.6%, 81.6%) | Statistical reliability |
@@ -325,7 +325,7 @@ Options:
 ### Confidence Score Distribution
 ![Confidence Distribution](outputs/eda/confidence_score_distribution.png)
 
-**Statistics:**
+**Stats:**
 - Mean: 0.775
 - Median: 0.700
 - **60%** of classifications have confidence ≥ 0.70
